@@ -1,2 +1,2 @@
 # Resume-Using-HTML-CSS
-Basically a responsive resume using HTML &amp; CSS
+This is a responsive resume of my own which I created using HTML & CSS
